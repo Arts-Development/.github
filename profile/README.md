@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://i.imgur.com/2i8bsue.png" width="100" />
+    <img src="https://i.imgur.com/CwMgknk.png" width="200" />
   </p>
   Arts Development
 <p>
